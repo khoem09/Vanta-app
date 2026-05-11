@@ -1,0 +1,20 @@
+{
+  "name": "Vanta",
+  "short_name": "Vanta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#0f0f1a",
+  "icons": [
+    {
+      "src": "/assets/vanta-logo-ACW4cv0H.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/vanta-logo-ACW4cv0H.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
